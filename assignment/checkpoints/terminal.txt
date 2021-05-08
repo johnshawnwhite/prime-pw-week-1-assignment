@@ -13,10 +13,11 @@ cd ..
 type mkdir and name the folder whatever you would like
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-In a folder containing files they are listed after the command 'ls'. In an empty folder the response is "cd: string not in pwd: ""
+1-When I input 'ls' in and empty folder, another line for a command appears.
+2-The files listed appear.
 
 # 6 - What is a quick way to create a new file?
-type "touch" followed by the name of the file you want to create
+type "touch" followed by the name of the file you want to create.
 
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.30.1 (Apple Git-130)
