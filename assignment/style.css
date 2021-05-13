@@ -2,10 +2,10 @@ body{
   background-color: forestgreen;
   background:rgba(12,190,23, 0.6);
   background-size: 100%;
-  margin 20%;
+  margin: 20%;
 }
 
-. ID{
+.ID {
   text-align: center;
   text-decoration-style: wavy;
   color: black;
@@ -30,9 +30,9 @@ body{
   font-size: 39px;
   font-style: italic;
   color: white;
-  border-top: 3px solid ##E96109;
+  border-top: 3px solid #E96109;
   border-style: inset;
-  border-bottom: 3px solid ##E96109;
+  border-bottom: 3px solid #E96109;
   background-color: royalblue;
 }
 .unorderded {
